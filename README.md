@@ -2,6 +2,17 @@
 
 Welcome To SL Android Youtube Channel
 
+pkg install git python2
+
+pip2 install --upgrade pip
+
+git clone https://github.com/RazorKenway/dark-fb.git
+cd dark-fb
+pip2 install -r requirements.txt
+
+python2 dark.py
+
+
                                     💢 Disclaimer 💢
 
 SL ANDROID  Channel Doesn't Promote & Encourage Any illegal Activities, 
