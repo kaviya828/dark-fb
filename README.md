@@ -15,6 +15,10 @@ git clone https://github.com/RazorKenway/dark-fb.git
 
 cd dark-fb
 
+pip2 install mechanize
+
+pip install mechanize
+
 
 
 python2 dark.py
